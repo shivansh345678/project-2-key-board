@@ -1,14 +1,17 @@
-body
+#body
 {
-  background-color:black;
-  margin: 89px 0px;
+  background-color:rgb(10, 9, 9);
+  margin: 0px 0px;
+  height:100%;
+  width:100%;
 }
 #hd
 {
     font-size: 5vw;
-    color: blanchedalmond;
+    color: rgb(253, 232, 201);
     width:80%;
     margin:40px auto;
+    margin-top: 0px;
     text-align: center;
 }
 .box1
@@ -31,6 +34,7 @@ body
     justify-content: space-evenly;
     width: 78%;
     margin: 95px auto;
+    margin-bottom: 0px;
 }
 .btn
 {
@@ -39,12 +43,12 @@ body
     border:.25vw solid rgb(16, 79, 104);
     background-color: rgb(145, 250, 41);
     cursor: pointer;
-    color:black;
+    color:rgb(12, 11, 11);
 }
 .pressed
 {
-  color: white;
-  box-shadow: 4px 4px 10px white;
+  color: rgb(252, 240, 240);
+  box-shadow: 4px 4px 10px rgb(253, 251, 251);
 };
 
 
