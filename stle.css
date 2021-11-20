@@ -1,6 +1,7 @@
 body
 {
   background-color:black;
+  margin:0px;
 }
 #hd
 {
@@ -38,6 +39,7 @@ body
     border:.25vw solid rgb(16, 79, 104);
     background-color: rgb(145, 250, 41);
     cursor: pointer;
+    color:black;
 }
 .pressed
 {
