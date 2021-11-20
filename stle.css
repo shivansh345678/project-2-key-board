@@ -1,0 +1,50 @@
+body
+{
+  background-color:black;
+  margin: 89px 0px;
+}
+#hd
+{
+    font-size: 5vw;
+    color: blanchedalmond;
+    width:80%;
+    margin:40px auto;
+    text-align: center;
+}
+.box1
+{
+    display:flex;
+    justify-content: space-evenly;
+    width: 90%;
+    margin: 55px auto;
+}
+.box2
+{
+    display:flex;
+    justify-content: space-evenly;
+    width: 82%;
+    margin: 75px auto;
+}
+.box3
+{
+    display:flex;
+    justify-content: space-evenly;
+    width: 78%;
+    margin: 95px auto;
+}
+.btn
+{
+    width:8.2%;
+    font-size: 6vw;
+    border:.25vw solid rgb(16, 79, 104);
+    background-color: rgb(145, 250, 41);
+    cursor: pointer;
+    color:black;
+}
+.pressed
+{
+  color: white;
+  box-shadow: 4px 4px 10px white;
+};
+
+
